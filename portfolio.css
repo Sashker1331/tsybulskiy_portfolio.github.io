@@ -1,0 +1,326 @@
+.header {
+	background-color: #082841;
+	width: 1440px;
+	height: 672px;
+	margin-left: 240px;
+	}
+.avatarka {
+	height: 672;
+	width: 552;
+	float: left;
+	}
+.column2 {
+	float: left;
+	margin-left: 96px;
+	margin-top: 65px;
+}
+.column3 {
+	color: #F0F8FF;
+	font-family: Helvetica-Bold;
+	font-size: 24px;
+	}
+.column4 {
+	color: #F0F8FF;
+	font-size: 40px;
+	font-family: Helvetica-Bold;
+	margin-top: 11px;
+	}
+.column5 {
+	color: #F0F8FF;
+	font-family: Georgia;
+	font-size: 20px;
+	margin-top: 234px;
+	margin-right: 248px;
+	margin-bottom: 89px;
+	line-height: 28px;
+	}
+.content {
+	background-color: #FFFFFF;
+	width: 1440px;
+	margin-left: 240px;
+	}
+.ozhidaniya {
+	font-size: 40px;
+	margin-left: 248px;
+	color: #000000;
+	margin-top: 106px;
+	font-family: Helvetica-Bold;
+	width: 400px;
+	height: 48px;
+}
+.tablica {
+	width: 944px;
+	height: 448px;
+	background-image: linear-gradient(-180deg, #E6F0F0 0%, #E9F0E6 100%);
+	margin-left: 248px;
+	margin-top: 38px;
+}
+.column_name1, .column_name2 {
+	float: left;
+}
+}
+.column_name1 {
+	width: 432px;
+	border-bottom: 10px solid #FFFFFF;
+	
+}
+.name1 {
+	font-size: 24px;
+	color: #000000;
+	margin-left: 32px;
+	margin-top: px;
+	width: 105px;
+	height: 29px;
+	padding: 25px 400px 64px 0px;
+	border-right: 10px solid #FFFFFF;
+}
+.opisanie1 {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	width: 432px;
+	height: 80px;
+	margin-top: px;
+	margin-left: px;
+	padding: 1px 73px 10px 32px;
+	border-right: 10px solid #FFFFFF;
+	border-bottom: 10px solid #FFFFFF;
+
+}
+.column_name2 {
+	width: 304px;
+}
+.name2 {
+	font-family: Helvetica-Bold;
+	font-size: 24px;
+	color: #000000;
+	width: 127px;
+	height: 29px;
+	margin-top: 25px;
+	margin-left: 55px;
+}
+.opisanie2 {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	width: 304px;
+	height: 67px;
+	margin-left: px;
+	margin-top: 88px;
+	border-bottom: 10px solid #FFFFFF;
+	padding: 0px 40px 0px 55px;
+}
+.column_name3, .column_name4 {
+	float: left;
+}
+.column_name3 {
+	width: 232px;
+}
+.name3 {
+	font-family: Helvetica-Bold;
+	font-size: 24px;
+	color: #000000;
+	width: 112px;
+	height: 29px;
+	margin-left: 32px;
+	margin-top: px;
+	padding: 35px 130px 64px 0px;
+	border-right: 10px solid #FFFFFF;
+}
+.opisanie3 {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	width: 232px;
+	height: 80px;
+	margin-left: 32px;
+	margin-top: px;
+	padding: 1px 10px 20px 0px;
+	border-right: 10px solid #FFFFFF;
+}
+.column_name4 {
+	width: 400px;
+}
+.name4 {
+	font-family: Helvetica-Bold;
+	font-size: 24px;
+	color: #000000;
+	width: 210px;
+	height: 29px;
+	margin-left: 88px;
+	margin-top: 35px;	
+}
+.opisanie4 {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	width: 400px;
+	height: 64px;
+	margin-left: 88px;
+	margin-top: 88px;
+}
+.my_work {
+	font-family: Helvetica-Bold;
+	font-size: 40px;
+	color: #000000;
+	margin-left: 248px;
+	margin-top: 129px;
+}
+.work, .perviy_sait {
+	float: left;
+}
+.work {
+	width: 544px;
+	height: 332px;
+	margin-left: 248px;
+	margin-top: 63px;
+}
+.sait_name {
+	font-family: Helvetica-Bold;
+	font-size: 24px;
+	color: #000000;
+	margin-left: 96px;
+	margin-top: 64px;
+	width: 100px;
+	height: 10px;
+}
+.ssilka {
+	margin-top: 8px;
+	margin-left: 96px;
+	width: 73px;
+	height: 24px;
+}
+a:link {
+	text-decoration: none;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #DD3E18;
+	line-height: 24px;
+}
+.infa {
+	opacity: 0.8;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	margin-top: 140px;
+	margin-left: 96px;
+}
+.aims {
+	font-family: Helvetica-Bold;
+	font-size: 40px;
+	color: #000000;
+	margin-left: 248px;
+	margin-top: 500px;
+}
+.moi_celi, .fotka {
+	float: left;
+}
+.moi_celi {
+	opacity: 0.8;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	margin-left: 248px;
+	margin-top: 140px;
+}
+.fotka {
+	width: 544px;
+	height: 384px;
+	margin-top: px;
+	margin-left: 80px;
+}
+.contacts {
+	background-image: linear-gradient(-180deg, #E6F0F0 0%, #E9F0E6 100%);
+	width: 1440px;
+	height: 795px;
+	margin-top: 500px;
+}
+.contact_inf {
+	font-family: Helvetica-Bold;
+	font-size: 40px;
+	color: #000000;
+	padding-top: 81px;
+	margin-left: 248px;
+}
+.message {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	margin-left: 248px;
+	margin-top: 61px;
+}
+.spisok {
+	margin-left: 248px;
+	margin-top: 50px;
+}
+.socseti {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+}
+.ssilochka {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #DD3E18;
+	line-height: 32px;
+}
+.levo, .pravo {
+	float: left;
+}
+.imechko {
+	margin-top: 192px;
+	margin-left: 96px;
+	width: 544px;
+	height: 48px;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	background: #FFFFFF;
+	border-radius: 4px;
+}
+.pochta {
+	margin-top: 24px;
+	margin-left: 96px;
+	width: 544px;
+	height: 48px;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	background: #FFFFFF;
+	border-radius: 4px;
+}
+.poslanie {
+	width: 544px; 
+	height: 192px; 
+	background-color: #ffffff; 
+	border-radius: 4px; 
+	font-size: 24px; 
+	margin-top: 24px;
+	margin-left: 96px;
+	font-family: Georgia;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+}
+.knopochka {
+	margin-left: 96px;
+	margin-top: 40px;
+	width: 544px;
+	height: 49px;
+	font-family: Helvetica-Bold;
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 24px;
+	background: #DD3E18;
+	border-radius: 4px;
+}
